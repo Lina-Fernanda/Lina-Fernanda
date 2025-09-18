@@ -8,13 +8,14 @@
 Bienvenid@ a mi perfil de GitHub. Estoy en proceso de especialización en **Seguridad Informática** y aquí comparto mi ruta de aprendizaje, proyectos destacados y recursos sobre redes, pentesting y análisis forense.
 
 ## 🚀 Sobre mí
-- Especialización en **gestión de cambios** y **ciberseguridad**
+- Especialización en **Seguridad Informática**
+- Experiencia en Soporte TI, Gestión de Cambios y Ciberseguridad
 - Experiencia en proyectos prácticos y documentados
 - Interés por soluciones innovadoras en seguridad informática
-- Habilidades en **Python básico**, Linux, Windows Server, Nmap, Wireshark y más
+- Habilidades en Python, Linux, Windows Server, Nmap, Wireshark entre otros
 
 ## 🎸 Intereses personales
-- Me gusta la música
+- Me encanta la música
 - Amo la guitarra
 - Trompetista en formación
 
@@ -29,8 +30,8 @@ Explora mi [Portafolio en Ciberseguridad](./ciberseguridad_portfolio.md) con pro
 Linux | Windows Server | TCP/IP | Firewalls | IDS/IPS | Nmap | Wireshark | Nessus | Metasploit | Autopsy | Volatility | TryHackMe | HackTheBox
 
 ## 📫 Contacto
-- **LinkedIn:** [https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile]
-- **Correo:** [Tu correo aquí]
+- **LinkedIn:** [***]
+- **Correo:** [***]
 - **GitHub:** [Lina-Fernanda]
 
 ---
