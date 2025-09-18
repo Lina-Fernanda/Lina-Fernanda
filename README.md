@@ -5,7 +5,7 @@
 
 🔐 **Ingeniera de Sistemas** | Gestora de Cambios | Apasionada por la Ciberseguridad
 
-Bienvenid@ a mi perfil de GitHub. Estoy en proceso de especialización en **Seguridad Informática** y aquí comparto mi ruta de aprendizaje, proyectos destacados y recursos sobre redes, pentesting y análisis forense.
+Bienvenid@ a mi perfil de GitHub. Estoy en proceso de formación como especialista en **Seguridad Informática** y aquí comparto mi ruta de aprendizaje, proyectos destacados y recursos sobre redes, pentesting y análisis forense.
 
 ## 🚀 Sobre mí
 - Especialización en **Seguridad Informática**
