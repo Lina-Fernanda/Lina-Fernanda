@@ -29,7 +29,7 @@ Explora mi [Portafolio en Ciberseguridad](./ciberseguridad_portfolio.md) con pro
 Linux | Windows Server | TCP/IP | Firewalls | IDS/IPS | Nmap | Wireshark | Nessus | Metasploit | Autopsy | Volatility | TryHackMe | HackTheBox
 
 ## 📫 Contacto
-- **LinkedIn:** [Tu perfil aquí]
+- **LinkedIn:** [https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile]
 - **Correo:** [Tu correo aquí]
 - **GitHub:** [Lina-Fernanda]
 
