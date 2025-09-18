@@ -1,4 +1,5 @@
 # 👋 ¡Hola, soy Lina Fernanda!
+![Mi Banner](./banner.png)
 
 🔐 **Ingeniera de Sistemas** | Gestora de Cambios | Apasionada por la Ciberseguridad
 
