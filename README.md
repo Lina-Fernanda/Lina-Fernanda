@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./banner.png.png)
 
 # 👋 ¡Hola, soy Lina Fernanda!
 
