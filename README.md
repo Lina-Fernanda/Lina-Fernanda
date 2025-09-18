@@ -12,8 +12,8 @@ Bienvenid@ a mi perfil de GitHub. Estoy en proceso de especialización en **Segu
 
 ## 🎸 Intereses personales
 - Me gusta la música
-- Toco guitarra
-- Estoy aprendiendo a tocar trompeta
+- Amo la guitarra
+- Trompetista en formación
 
 ## 📘 Portafolio y Proyectos
 Explora mi [Portafolio en Ciberseguridad](./ciberseguridad_portfolio.md) con proyectos organizados por niveles:
