@@ -20,7 +20,7 @@ Bienvenid@ a mi perfil de GitHub. Estoy en proceso de formación como Especialis
 - Trompetista en formación
 
 ## 📘 Portafolio y Proyectos
-Explora mi [Portafolio en Ciberseguridad](Portafolio-en-Ciberseguridad/README.md) con proyectos organizados por niveles:
+Explora mi [Portafolio en Ciberseguridad](https://github.com/Lina-Fernanda/Portafolio-en-Ciberseguridad/blob/main/README.md) con proyectos organizados por niveles:
 - Escaneo de redes y análisis de tráfico
 - Fortalecimiento y configuración segura de sistemas
 - Pentesting en laboratorios (DVWA, Metasploitable)
