@@ -32,7 +32,7 @@ Linux | Windows Server | TCP/IP | Firewalls | IDS/IPS | Nmap | Wireshark | Nessu
 ## 📫 Contacto
 - **LinkedIn:** [linkedin.com/in/lina-fernanda-c-a73843179]
 - **Correo:** [lfcybershield@gmail.com]
-- **GitHub:** [Lina-Fernanda]
+- **GitHub:** [github.com/Lina-Fernanda]
 
 ---
 
