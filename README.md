@@ -30,9 +30,9 @@ Explora mi [Portafolio en Ciberseguridad](https://github.com/Lina-Fernanda/Porta
 Linux | Windows Server | TCP/IP | Firewalls | IDS/IPS | Nmap | Wireshark | Nessus | Metasploit | Autopsy | Volatility | TryHackMe | HackTheBox
 
 ## 📫 Contacto
-- **LinkedIn:** [linkedin.com/in/lina-fernanda-c-a73843179]
+- **LinkedIn:** [https://www.linkedin.com/in/lina-fernanda-c-a73843179]
 - **Correo:** [lfcybershield@gmail.com]
-- **GitHub:** [github.com/Lina-Fernanda]
+- **GitHub:** [https://github.com/Lina-Fernanda/]
 
 ---
 
